@@ -122,6 +122,11 @@ td {
   max-width: 600px;
   margin: 0 auto;
 }
+.cont{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
 
 #display-name {
   font-size: 24px;
